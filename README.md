@@ -42,6 +42,8 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ![4](https://user-images.githubusercontent.com/116693260/221186282-0872a3e2-997e-43d8-a4c4-d287b4fe390b.jpg)
 
+![Escáner_20230224](https://user-images.githubusercontent.com/116693260/221191396-395cb097-7796-4b2e-8dad-b2b58ac33bbf.jpg)
+
 ## CONCLUSIONES
 
 En síntesis, se puede afirmar que para realizar operaciones aritméticas con números complejos, ya sea: suma, resta, multiplicación, división o una combinación de estas, para trabajar con fasores, será más facil en las suma y resta emplear la forma rectangular, y para multiplicación y división, en forma polar. 
