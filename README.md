@@ -32,9 +32,13 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ![1](https://user-images.githubusercontent.com/116693260/221186264-e4fd02b7-b21c-45a1-8b68-b057d1204af2.jpg)
 
+![IMG_20230224_0001](https://user-images.githubusercontent.com/117873786/221199744-99fa34af-b324-4c9e-8722-47a7d5e926e2.jpg)
+
 ![image](https://user-images.githubusercontent.com/116693260/221189093-019bf423-1747-40d8-a7d0-31cb82848e88.png)
 
 ![2](https://user-images.githubusercontent.com/116693260/221186273-41f7cdbb-6300-44ba-8ed3-fcd94f41462b.jpg)
+
+![IMG_20230224_0002](https://user-images.githubusercontent.com/117873786/221199815-0b4dd714-43f6-48cf-983b-22fc8f544971.jpg)
 
 ![image](https://user-images.githubusercontent.com/116693260/221189462-1cc90769-ea4f-486d-b576-cc35e7372e72.png)
 
@@ -43,6 +47,12 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 ![4](https://user-images.githubusercontent.com/116693260/221186282-0872a3e2-997e-43d8-a4c4-d287b4fe390b.jpg)
 
 ![Escáner_20230224](https://user-images.githubusercontent.com/116693260/221191396-395cb097-7796-4b2e-8dad-b2b58ac33bbf.jpg)
+
+![image](https://user-images.githubusercontent.com/116693260/221195264-cf50177c-664f-406e-a09d-7710ce663176.png)
+
+![IMG_20230224_0003](https://user-images.githubusercontent.com/117873786/221200220-e2de3d89-4b7c-4bd5-bbf3-dc4d0d024d0d.jpg)
+
+![IMG_20230224_0004](https://user-images.githubusercontent.com/117873786/221200230-4c20cc40-49cc-4f07-bd36-b87cf8870f95.jpg)
 
 ![image](https://user-images.githubusercontent.com/116693260/221195264-cf50177c-664f-406e-a09d-7710ce663176.png)
 
@@ -81,6 +91,10 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 ### d)
 
 ![image](https://user-images.githubusercontent.com/116693260/221197888-2063d670-ad9c-4137-b1f4-609e8b3be85f.png), ![image](https://user-images.githubusercontent.com/116693260/221197934-cddb7c11-19df-405a-abe4-f2ca62e2c8ae.png)
+
+## VIDEO 
+
+https://uespe-my.sharepoint.com/:v:/g/personal/jfsalazar12_espe_edu_ec/EaRUHGzqTchKkhuVhI_Sw-gB6ArE_UqUkQyV4JacuiQJlA?e=JHKYfi
 
 ## CONCLUSIONES
 
