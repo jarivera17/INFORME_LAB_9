@@ -42,7 +42,7 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ![image](https://user-images.githubusercontent.com/116693260/221189462-1cc90769-ea4f-486d-b576-cc35e7372e72.png)
 
-![3](https://user-images.githubusercontent.com/116693260/221186275-54932a18-2001-4899-b793-e7c6c489c442.jpg)
+![Escáner_20230224 (2)](https://user-images.githubusercontent.com/116693260/221207414-251b5624-07c8-41fa-be7b-47e1c135dc3a.jpg)
 
 ![4](https://user-images.githubusercontent.com/116693260/221186282-0872a3e2-997e-43d8-a4c4-d287b4fe390b.jpg)
 
