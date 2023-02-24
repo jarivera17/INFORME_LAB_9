@@ -48,8 +48,6 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ![Escáner_20230224](https://user-images.githubusercontent.com/116693260/221191396-395cb097-7796-4b2e-8dad-b2b58ac33bbf.jpg)
 
-![image](https://user-images.githubusercontent.com/116693260/221195264-cf50177c-664f-406e-a09d-7710ce663176.png)
-
 ![IMG_20230224_0003](https://user-images.githubusercontent.com/117873786/221200220-e2de3d89-4b7c-4bd5-bbf3-dc4d0d024d0d.jpg)
 
 ![IMG_20230224_0004](https://user-images.githubusercontent.com/117873786/221200230-4c20cc40-49cc-4f07-bd36-b87cf8870f95.jpg)
