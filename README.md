@@ -48,9 +48,9 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ![Escáner_20230224](https://user-images.githubusercontent.com/116693260/221191396-395cb097-7796-4b2e-8dad-b2b58ac33bbf.jpg)
 
-![IMG_20230224_0003](https://user-images.githubusercontent.com/117873786/221200220-e2de3d89-4b7c-4bd5-bbf3-dc4d0d024d0d.jpg)
+![IMG_20230224_0005](https://user-images.githubusercontent.com/117873786/221227876-aebdbdd8-7249-4995-b8be-5ae458a72cca.jpg)
 
-![IMG_20230224_0004](https://user-images.githubusercontent.com/117873786/221200230-4c20cc40-49cc-4f07-bd36-b87cf8870f95.jpg)
+![IMG_20230224_0006](https://user-images.githubusercontent.com/117873786/221227891-ffd6f150-9db8-42fc-8192-46f58994f3d5.jpg)
 
 ![image](https://user-images.githubusercontent.com/116693260/221195264-cf50177c-664f-406e-a09d-7710ce663176.png)
 
