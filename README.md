@@ -90,6 +90,20 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 
 ![image](https://user-images.githubusercontent.com/116693260/221197888-2063d670-ad9c-4137-b1f4-609e8b3be85f.png), ![image](https://user-images.githubusercontent.com/116693260/221197934-cddb7c11-19df-405a-abe4-f2ca62e2c8ae.png)
 
+## Ejercicio 3.
+
+### a)
+
+![image](https://user-images.githubusercontent.com/116693260/221202821-e4578449-5074-4516-b305-cbed22bf0402.png), ![image](https://user-images.githubusercontent.com/116693260/221202867-6bc9de22-2031-4126-be80-a4cf17dd0a85.png)
+
+### b)
+
+![image](https://user-images.githubusercontent.com/116693260/221202417-8931f481-4e82-4ad7-b74e-47f87d60e826.png), ![image](https://user-images.githubusercontent.com/116693260/221202468-16954424-87a5-47ad-b06a-ad0ad2be1b21.png)
+
+### c) 
+
+![image](https://user-images.githubusercontent.com/116693260/221203239-216559e4-0211-477e-880b-ec8a95ca95bc.png), ![image](https://user-images.githubusercontent.com/116693260/221203321-8e5a2697-8690-4af7-a1e4-26eb4fa604b7.png)
+
 ## VIDEO 
 
 https://uespe-my.sharepoint.com/:v:/g/personal/jfsalazar12_espe_edu_ec/EaRUHGzqTchKkhuVhI_Sw-gB6ArE_UqUkQyV4JacuiQJlA?e=JHKYfi
