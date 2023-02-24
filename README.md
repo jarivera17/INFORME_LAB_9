@@ -93,8 +93,7 @@ Realizar operaciones aritméticas con números complejos, tanto en su forma pola
 ## Ejercicio 3.
 
 ### a)
-
-![image](https://user-images.githubusercontent.com/116693260/221202821-e4578449-5074-4516-b305-cbed22bf0402.png), ![image](https://user-images.githubusercontent.com/116693260/221202867-6bc9de22-2031-4126-be80-a4cf17dd0a85.png)
+![image](https://user-images.githubusercontent.com/116693260/221207995-a95911cc-638a-42f5-9522-310490edf135.png), ![image](https://user-images.githubusercontent.com/116693260/221208074-3753360a-6e63-45f6-8bec-9e91d8e54220.png)
 
 ### b)
 
